@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am as a Full Stack java Developer with 8 years of experience.<br>I have successfully led and contributed to a wide range of projects encompassing both frontend and backend technologies.<br> My proficiency spans crafting responsive user interfaces to designing and optimizing complex backend architectures. 
+I am currently working as a Full Stack Java Developer with over 8 years of experience.<br>I have successfully led and contributed to a wide range of projects encompassing both frontend and backend technologies.<br> My proficiency spans crafting responsive user interfaces to designing and optimizing complex backend architectures. 
 
 
 ## 🌐 Socials:
